@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Administrateur",
+      "email": "admin@qhse.local",
+      "password": "admin123",
+      "role": "Admin"
+    }
+  ],
+  "incidents": [],
+  "risks": [],
+  "actions": [],
+  "inspections": [],
+  "audits": [],
+  "environment": [],
+  "logs": [],
+  "notifications": []
+}
