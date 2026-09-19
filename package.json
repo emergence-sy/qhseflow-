@@ -1,8 +1,13 @@
 {
-  "name":"qhseflow-v6",
-  "version":"5.0.0",
-  "description":"QHSEFlow V5",
-  "main":"server.js",
-  "scripts":{"start":"node server.js"},
-  "dependencies":{"express":"^4.21.2","multer":"^1.4.5-lts.1"}
+  "name": "qhseflow-v6",
+  "version": "6.0.0",
+  "description": "QHSEFlow V6 — plateforme QHSE orientée terrain",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  }
 }
